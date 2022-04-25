@@ -1,0 +1,6 @@
+Algoritmo ex1
+Digite o valor da peça e armazene  em valor
+Digite a qtde de peças e armazene em qtde
+Faça vt= qtde*valor
+mostre vt 
+FimAlgoritmo

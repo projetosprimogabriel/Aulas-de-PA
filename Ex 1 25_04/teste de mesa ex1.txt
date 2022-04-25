@@ -1,0 +1,4 @@
+Teste de Mesa
+Valor  qtde   vt
+2      10     20
+2,5    12,5   12,5  
