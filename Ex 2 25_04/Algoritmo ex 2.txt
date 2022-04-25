@@ -1,0 +1,7 @@
+Algoritmo exercício 2
+Algoritmo estoque medio
+ Entre com o valor para qtdeminima
+ Entre com o valor para qtdemaxima
+ Faça estoquemedio=(quantidade manima+quantidade maxima)/2
+ mostre estoquemedio
+FimAlgoritmo

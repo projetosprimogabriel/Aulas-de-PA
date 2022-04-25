@@ -1,0 +1,4 @@
+Teste de mesa Ex2
+Qtdeminima  Qtdemaxima   estoquemedio
+20          100          60 
+15          100          107,5
