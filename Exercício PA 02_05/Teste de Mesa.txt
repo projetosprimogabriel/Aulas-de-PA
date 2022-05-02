@@ -1,0 +1,4 @@
+Valor reais  Cotação  Valor dolar
+100          5         20
+50           5         10
+100          4,5       22,22
