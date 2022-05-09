@@ -1,0 +1,6 @@
+teste de mesa 
+exercício 3 quadrado do número
+
+
+preço_peça    qtde_vendida     comissão
+2.5           200              500 e 25 de comissao(5%)
