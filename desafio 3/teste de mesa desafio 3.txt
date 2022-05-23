@@ -1,0 +1,12 @@
+Algoritmo Gasolina
+  Entre com os quilometros e armazene em km
+  Entre com o cunsumo de gasolina do seu carro e armazene em consumo
+  Entre com o preço médio da gasolina e armazene em preco
+  Faça total = ((km/consumo) * preco) * 2
+  Mostre total
+Fim Algoritmo
+
+TESTE DE MESA
+
+km consumo preco total
+450 10 4,50 405
