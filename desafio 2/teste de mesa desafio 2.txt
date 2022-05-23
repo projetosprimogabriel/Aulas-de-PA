@@ -1,0 +1,10 @@
+Entre com as horas e armazene em hora
+  Entre com os minutos e armazene em min
+  Entre com o valor ganho e armazene em valor
+  Faça total = ((min/60) + hora) * valor
+  Mostre total
+FimAlgoritmo
+
+TESTE DE MESA 
+Horas     Total
+ 20        850
