@@ -1,0 +1,12 @@
+Algoritmo Hora
+  Entre com as horas e armazene em hora
+  Entre com os minutos e armazene em min
+  Faça total = (min/60) + hora
+  Mostre total
+FimAlgoritmo
+
+TESTE DE MESA 
+
+hora     minutos     total
+ 3         40        3.67
+ 1         32        1.52
