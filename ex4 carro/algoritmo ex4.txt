@@ -1,0 +1,7 @@
+Algoritmo
+
+digite o valor do carro de fabrica
+faça o total=((custo_fabrica*0.45)+custo_fabrica)*0.28
+mostre o total
+
+fimalgoritmo
