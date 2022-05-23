@@ -1,0 +1,12 @@
+Algoritmo Velocidade_media
+  Entre com o percurso percorrido e armazene em distância
+  Entre com o tempo gasto em horas e armazene em horas
+  Entre com o tempo gasto em minutos e armazene em min
+  Faça total = percurso / ((min/60) + horas)
+  Mostre total
+Fim Algoritmo
+
+TESTE DE MESA
+
+percurso tempo total
+  150 1h13 123
